@@ -1,2 +1,3 @@
 # hello-world
-First repository created
+
+Modification of the read me in the purpose of testing how to commit changes in GitHub
